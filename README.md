@@ -49,4 +49,4 @@ A BiLSTM-based sentiment analysis model was trained on the IMDb 50K Movie Review
 
 ## Author
 
-Dhanu Shree
+Dhanushree
